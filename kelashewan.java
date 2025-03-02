@@ -61,7 +61,7 @@ public class kelashewan {
         hewan1.bertambahUmur(2); //Menambah umur kucing
         hewan1.tampilkanInfo(); //Menampilkan info setelah umur bertambah
         
-        System.out.println(); //Pemisah output
+        System.out.println(); 
         
         hewan2.tampilkanInfo();
         hewan2.suaraHewan();
